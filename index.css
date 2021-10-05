@@ -1,0 +1,19 @@
+html,
+body,
+#root {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  font-family: Montserrat, sans-serif;
+}
+
+@media (max-width: 600px) {
+  html {
+    font-size: 75%;
+  }
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+}

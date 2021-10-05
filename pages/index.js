@@ -1,0 +1,9 @@
+export { default as SearchPage } from './SearchPage';
+export { default as BasketPage } from './BasketPage';
+export { default as OrdersPage } from './OrdersPage';
+export { default as ShipmentsPage } from './ShipmentsPage';
+export { default as BalancePage } from './BalancePage';
+export { default as ResetPasswordPage } from './ResetPasswordPage';
+export { default as EmailVerifiedPage } from './EmailVerifiedPage';
+export { default as AboutPage } from './AboutPage';
+export { default as ContactPage } from './ContactPage';
